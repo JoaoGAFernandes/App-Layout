@@ -1,5 +1,5 @@
 # APP LAYOUT
-A new Flutter project.
+Meu primeiro projeto usando o Flutter
 
 ## Getting Started
 
